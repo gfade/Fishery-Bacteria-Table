@@ -1,0 +1,54 @@
+﻿/* CREATE TABLE */
+CREATE TABLE table_name(
+Phylum VARCHAR(100),
+Class VARCHAR(100),
+Order VARCHAR(100),
+Family VARCHAR(100),
+Genus VARCHAR(100),
+Species VARCHAR(100),
+Scientific Name VARCHAR(100)
+);
+
+
+
+INSERT INTO table_name(Phylum, Class, Order, Family, Genus, Species, Scientific Name)
+VALUES
+(
+'Firmicutes', 'Clostridia', 'Clostridiales', 'Veillonellaceae', 'Veillonella', 'montpellierensis', 'Veillonella montpellierensis'
+);
+
+INSERT INTO table_name(Phylum, Class, Order, Family, Genus, Species, Scientific Name)
+VALUES
+(
+'Proteobacteria', 'Alphaproteobacteria', 'Caulobacterales', 'Caulobacteraceae', 'Phenylobacterium', 'lituiforme', 'Phenylobacterium lituiforme'
+);
+
+INSERT INTO table_name(Phylum, Class, Order, Family, Genus, Species, Scientific Name)
+VALUES
+(
+'Proteobacteria', 'Gammaproteobacteria', 'Pseudomonadales', 'Pseudomonadaceae', 'Pseudomonas', 'viridiflava', 'Pseudomonas viridiflava'
+);
+
+INSERT INTO table_name(Phylum, Class, Order, Family, Genus, Species, Scientific Name)
+VALUES
+(
+'Proteobacteria', 'Alphaproteobacteria', 'Sphingomonadales', 'Sphingomonadaceae', 'Sphingomonas', 'wittichii', 'Sphingomonas wittichii'
+);
+
+INSERT INTO table_name(Phylum, Class, Order, Family, Genus, Species, Scientific Name)
+VALUES
+(
+'Proteobacteria', 'Betaproteobacteria', 'Burkholderiales', 'Comamonadaceae', 'Limnobacter', 'litoralis', 'Limnobacter litoralis'
+);
+
+INSERT INTO table_name(Phylum, Class, Order, Family, Genus, Species, Scientific Name)
+VALUES
+(
+'Proteobacteria', 'Betaproteobacteria', 'Burkholderiales', 'Comamonadaceae', 'Hydrogenophaga', 'bisanensis', 'Hydrogenophaga bisanensis'
+);
+
+INSERT INTO table_name(Phylum, Class, Order, Family, Genus, Species, Scientific Name)
+VALUES
+(
+'Actinobacteria', 'Actinobacteria', 'Actinomycetales', 'Propionibacteriaceae', 'Propionibacterium', 'microaerophilum', 'Propionibacterium microaerophilum'
+);

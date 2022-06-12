@@ -1,0 +1,110 @@
+﻿/* CREATE TABLE */
+CREATE TABLE table_name(
+column_0 VARCHAR(100),
+column_1 VARCHAR(100),
+column_2 VARCHAR(100),
+column_3 VARCHAR(100),
+column_4 VARCHAR(100),
+column_5 VARCHAR(100),
+column_6 VARCHAR(100),
+column_7 VARCHAR(100),
+column_8 VARCHAR(100),
+column_9 VARCHAR(100),
+column_10 VARCHAR(100),
+column_11 VARCHAR(100),
+column_12 VARCHAR(100),
+column_13 VARCHAR(100),
+column_14 VARCHAR(100),
+column_15 VARCHAR(100)
+);
+
+/* INSERT QUERY NO: 1 */
+INSERT INTO table_name(column_0, column_1, column_2, column_3, column_4, column_5, column_6, column_7, column_8, column_9, column_10, column_11, column_12, column_13, column_14, column_15)
+VALUES
+(
+'Scientific Name', '', '', '', '', '', '', '', '', '', '', '', '', '', '', ''
+);
+
+/* INSERT QUERY NO: 2 */
+INSERT INTO table_name(column_0, column_1, column_2, column_3, column_4, column_5, column_6, column_7, column_8, column_9, column_10, column_11, column_12, column_13, column_14, column_15)
+VALUES
+(
+'Veillonella montpellierensis', 'acetate', 'lactate', 'nitrate', 'propionate', 'succinate', '', '', '', '', '', '', '', '', '', ''
+);
+
+/* INSERT QUERY NO: 3 */
+INSERT INTO table_name(column_0, column_1, column_2, column_3, column_4, column_5, column_6, column_7, column_8, column_9, column_10, column_11, column_12, column_13, column_14, column_15)
+VALUES
+(
+'Enterobacter nickellidurans', '', '', '', '', '', '', '', '', '', '', '', '', '', '', ''
+);
+
+/* INSERT QUERY NO: 4 */
+INSERT INTO table_name(column_0, column_1, column_2, column_3, column_4, column_5, column_6, column_7, column_8, column_9, column_10, column_11, column_12, column_13, column_14, column_15)
+VALUES
+(
+'Phenylobacterium lituiforme', 'acetate', 'cellobiose', 'citrate', 'glucose', 'glycerol', 'lactate', 'phenylalanine', 'pyruvate', 'succinate', 'sucrose', 'xylose', '', '', '', ''
+);
+
+/* INSERT QUERY NO: 5 */
+INSERT INTO table_name(column_0, column_1, column_2, column_3, column_4, column_5, column_6, column_7, column_8, column_9, column_10, column_11, column_12, column_13, column_14, column_15)
+VALUES
+(
+'Zoogloea resiniphila', '', '', '', '', '', '', '', '', '', '', '', '', '', '', ''
+);
+
+/* INSERT QUERY NO: 6 */
+INSERT INTO table_name(column_0, column_1, column_2, column_3, column_4, column_5, column_6, column_7, column_8, column_9, column_10, column_11, column_12, column_13, column_14, column_15)
+VALUES
+(
+'Pseudomonas viridiflava', 'adipate', 'arginine', 'D-glucose', 'D-mannitol', 'D-mannose', 'decanoae', 'esculin', 'gluconatee', 'L-arabinose', 'malate', 'maltose', 'N-acetylglucosamine', 'nitrate', 'tryptophan', 'urea'
+);
+
+/* INSERT QUERY NO: 7 */
+INSERT INTO table_name(column_0, column_1, column_2, column_3, column_4, column_5, column_6, column_7, column_8, column_9, column_10, column_11, column_12, column_13, column_14, column_15)
+VALUES
+(
+'Brenneria quercina', '', '', '', '', '', '', '', '', '', '', '', '', '', '', ''
+);
+
+/* INSERT QUERY NO: 8 */
+INSERT INTO table_name(column_0, column_1, column_2, column_3, column_4, column_5, column_6, column_7, column_8, column_9, column_10, column_11, column_12, column_13, column_14, column_15)
+VALUES
+(
+'Arthrospira fusiformis', '', '', '', '', '', '', '', '', '', '', '', '', '', '', ''
+);
+
+/* INSERT QUERY NO: 9 */
+INSERT INTO table_name(column_0, column_1, column_2, column_3, column_4, column_5, column_6, column_7, column_8, column_9, column_10, column_11, column_12, column_13, column_14, column_15)
+VALUES
+(
+'Sphingomonas wittichii', 'adipate', 'arginine', 'D-glucose', 'D-mannitol', 'D-mannose', 'decanoate', 'esculin', 'gelatin', 'gluconate', '', '', '', '', '', ''
+);
+
+/* INSERT QUERY NO: 10 */
+INSERT INTO table_name(column_0, column_1, column_2, column_3, column_4, column_5, column_6, column_7, column_8, column_9, column_10, column_11, column_12, column_13, column_14, column_15)
+VALUES
+(
+'Desulfuromonas acetoxidans', '', '', '', '', '', '', '', '', '', '', '', '', '', '', ''
+);
+
+/* INSERT QUERY NO: 11 */
+INSERT INTO table_name(column_0, column_1, column_2, column_3, column_4, column_5, column_6, column_7, column_8, column_9, column_10, column_11, column_12, column_13, column_14, column_15)
+VALUES
+(
+'Limnobacter litoralis', 'acetate', 'formate', 'lactate', 'succinate', '', '', '', '', '', '', '', '', '', '', ''
+);
+
+/* INSERT QUERY NO: 12 */
+INSERT INTO table_name(column_0, column_1, column_2, column_3, column_4, column_5, column_6, column_7, column_8, column_9, column_10, column_11, column_12, column_13, column_14, column_15)
+VALUES
+(
+'Hydrogenophaga bisanensis', 'adipate', 'gluconate', 'glucose', 'glycerol', '', '', '', '', '', '', '', '', '', '', ''
+);
+
+/* INSERT QUERY NO: 13 */
+INSERT INTO table_name(column_0, column_1, column_2, column_3, column_4, column_5, column_6, column_7, column_8, column_9, column_10, column_11, column_12, column_13, column_14, column_15)
+VALUES
+(
+'Propionibacterium microaerophilum', 'arginine', 'D-mannose', 'L-glutamate', 'nitrate', 'raffinose', 'typtophan', 'urea', '', '', '', '', '', '', '', ''
+);

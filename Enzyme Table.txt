@@ -1,0 +1,100 @@
+﻿/* CREATE TABLE */
+CREATE TABLE table_name(
+column_0 VARCHAR(100),
+column_1 VARCHAR(100),
+column_2 VARCHAR(100),
+column_3 VARCHAR(100),
+column_4 VARCHAR(100),
+column_5 VARCHAR(100)
+);
+
+/* INSERT QUERY NO: 1 */
+INSERT INTO table_name(column_0, column_1, column_2, column_3, column_4, column_5)
+VALUES
+(
+'Scientific Name', '', '', '', '', ''
+);
+
+/* INSERT QUERY NO: 2 */
+INSERT INTO table_name(column_0, column_1, column_2, column_3, column_4, column_5)
+VALUES
+(
+'Veillonella montpellierensis', 'catalase', '', '', '', ''
+);
+
+/* INSERT QUERY NO: 3 */
+INSERT INTO table_name(column_0, column_1, column_2, column_3, column_4, column_5)
+VALUES
+(
+'Enterobacter nickellidurans', '', '', '', '', ''
+);
+
+/* INSERT QUERY NO: 4 */
+INSERT INTO table_name(column_0, column_1, column_2, column_3, column_4, column_5)
+VALUES
+(
+'Phenylobacterium lituiforme', 'catalase', '', '', '', ''
+);
+
+/* INSERT QUERY NO: 5 */
+INSERT INTO table_name(column_0, column_1, column_2, column_3, column_4, column_5)
+VALUES
+(
+'Zoogloea resiniphila', '', '', '', '', ''
+);
+
+/* INSERT QUERY NO: 6 */
+INSERT INTO table_name(column_0, column_1, column_2, column_3, column_4, column_5)
+VALUES
+(
+'Pseudomonas viridiflava', 'arginine dihydrolase', 'beta-glucosidase', 'cytochrome oxidase', 'urease', ''
+);
+
+/* INSERT QUERY NO: 7 */
+INSERT INTO table_name(column_0, column_1, column_2, column_3, column_4, column_5)
+VALUES
+(
+'Brenneria quercina', '', '', '', '', ''
+);
+
+/* INSERT QUERY NO: 8 */
+INSERT INTO table_name(column_0, column_1, column_2, column_3, column_4, column_5)
+VALUES
+(
+'Arthrospira fusiformis', '', '', '', '', ''
+);
+
+/* INSERT QUERY NO: 9 */
+INSERT INTO table_name(column_0, column_1, column_2, column_3, column_4, column_5)
+VALUES
+(
+'Sphingomonas wittichii', 'arginine dihydrolase', 'beta-glucosidase', 'cytochrome oxidase', 'gelatinase', 'urease'
+);
+
+/* INSERT QUERY NO: 10 */
+INSERT INTO table_name(column_0, column_1, column_2, column_3, column_4, column_5)
+VALUES
+(
+'Desulfuromonas acetoxidans', '', '', '', '', ''
+);
+
+/* INSERT QUERY NO: 11 */
+INSERT INTO table_name(column_0, column_1, column_2, column_3, column_4, column_5)
+VALUES
+(
+'Limnobacter litoralis', 'catalase', 'cytochrome oxidase', 'urease', '', ''
+);
+
+/* INSERT QUERY NO: 12 */
+INSERT INTO table_name(column_0, column_1, column_2, column_3, column_4, column_5)
+VALUES
+(
+'Hydrogenophaga bisanensis', 'catalase', '', '', '', ''
+);
+
+/* INSERT QUERY NO: 13 */
+INSERT INTO table_name(column_0, column_1, column_2, column_3, column_4, column_5)
+VALUES
+(
+'Propionibacterium microaerophilum', 'beta-glucosidase', 'urease', 'arginine dihydrolase', '', ''
+);
